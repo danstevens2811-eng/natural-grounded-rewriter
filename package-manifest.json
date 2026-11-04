@@ -1,0 +1,59 @@
+{
+  "name": "natural-grounded-rewriter",
+  "specification_version": "2.1",
+  "source_sha256": "f304ffec82c22d2d9b171168693d15acbe62fb8b5a1e9f799dbb00429255c48e",
+  "source_copy": "natural-grounded-rewriter/references/version-2.1-original.md",
+  "entrypoint_sections": [
+    4,
+    5,
+    6,
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "reference_sections": {
+    "references/diagnosis-and-repair.md": [
+      8,
+      10
+    ],
+    "references/voice-and-genre.md": [
+      7
+    ],
+    "references/fidelity-review.md": [
+      12,
+      13
+    ],
+    "references/worked-examples.md": [
+      17
+    ],
+    "references/research-notes.md": [
+      20
+    ],
+    "evaluation/cases.md": [
+      18
+    ],
+    "evaluation/rubric.md": [
+      19
+    ]
+  },
+  "behavioral_validation": "not performed",
+  "files": {
+    "HOW-TO-USE.md": "ffe2a9df748c58ddbdf12a8545d6f1c4b624eb6b7a6e86b4aa9d5addb025070d",
+    "natural-grounded-rewriter/agents/openai.yaml": "2ef6063dc02bf538253832976d523af793bc2d46c1c633f0029448bcb9d6a1b2",
+    "natural-grounded-rewriter/evaluation/cases.md": "591f0732ce7437bf35b53099bf9bc4276a613774f13e994559de06050d6a7f83",
+    "natural-grounded-rewriter/evaluation/results.md": "fc6cbce9cac79b4a4207d5db309f9879b1f1d98e78b4c874499dc4c61eb402c6",
+    "natural-grounded-rewriter/evaluation/rubric.md": "d2638736d056221d64e1454d566067abbc0b74658b8ae079ad409addd1a338f7",
+    "natural-grounded-rewriter/references/diagnosis-and-repair.md": "64dda3c976273bb42a3f7f382ac69d5220ed1bc973c191aa6520913b9462567e",
+    "natural-grounded-rewriter/references/fidelity-review.md": "e8ae0fce94a0d18af4a19fe75e594bc1b933c870b3e58e39e230ed56d428918d",
+    "natural-grounded-rewriter/references/research-notes.md": "d3b29d83189244979b4891f109cc3f0259ca4dead9fb7aa44a87dd862eecf304",
+    "natural-grounded-rewriter/references/version-2.1-original.md": "f304ffec82c22d2d9b171168693d15acbe62fb8b5a1e9f799dbb00429255c48e",
+    "natural-grounded-rewriter/references/voice-and-genre.md": "ec1cf61389e0c653754e5dfbe5dd89806df0b95c9759faa611039d69ab34773b",
+    "natural-grounded-rewriter/references/worked-examples.md": "ffbbc031ece2b4a3f3a7305e8f21ca6fef0fe5949ce8089848f8a9b3081c6d94",
+    "natural-grounded-rewriter/SKILL.md": "ed97311a4c3428778784af1c3ec69ffe254fe801e856b8abb2b38f732fba4329",
+    "PORTABLE-LLM-INSTRUCTIONS.md": "30602ca18148cc4ecffcf514fe7c5c57d91fb902e3e2f834fae003e5760666c6"
+  }
+}
